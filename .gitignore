@@ -1,0 +1,21 @@
+# PHP
+*.log
+*.sql
+*.sqlite
+*.zip
+*.tar.gz
+*.tgz
+*.bak
+
+/vendor/
+
+.env
+
+.DS_Store
+Thumbs.db
+
+.idea/
+.vscode/
+
+/node_modules/
+
